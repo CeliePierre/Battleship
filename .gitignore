@@ -1,1 +1,4 @@
 /ignore
+/v1/__pycache__
+/v2/DrawingPanel*
+/v2/!DrawingPanel.java

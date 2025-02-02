@@ -2,7 +2,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /*
-    NAME: Célie Pierre
+    NAME: Celie Pierre
     COS 161, Spring 2022, Prof. Andrew Amorelli
     Project 04
     File Name: Ship.java

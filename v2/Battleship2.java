@@ -1,5 +1,5 @@
 /*
-    NAME: Célie Pierre
+    NAME: Celie Pierre
     COS 161, Spring 2022, Prof. Andrew Amorelli
     Project 04
     File Name: Battleship.java
@@ -8,13 +8,8 @@
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
-import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.Iterator;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
-import java.util.TreeMap;
 
 public class Battleship2 {
 
@@ -63,7 +58,7 @@ public class Battleship2 {
 		boolean shipHit = false;
 		String square = "";
 		while (!validMove || shipHit) {
-			// The base case should be all a player’s ships being destroyed
+			// The base case should be all a playerï¿½s ships being destroyed
 			if (checkWinner(opponent, 0)) {
 				return p.getPlayer();
 			} else {
